@@ -1,0 +1,31 @@
+#player,#player a{ color:#D8D8D8; }
+#player{ background:url('http://static.tumblr.com/bmdsqsc/gNWm78no0/untitled-4.png'); background-position:bottom; background-color: #FFFFFF; border-top:1px dashed #D8D8D8 }
+#player .mainImage{ background:url('http://static.tumblr.com/bmdsqsc/iZkm78nil/player02.png'); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url('http://static.tumblr.com/bmdsqsc/EaPm78mr2/pause2.png'); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:1px dotted #D0D0D0;  }
+#player #seekerBuffered{ background-color:#FFFFFF; }
+#player #seekerSliderBase{ background-color:#212121; }
+
+#player #volume{ width:65px; right:39px; background-color: #F0F0F0; height:10px; top:8px;}
+
+#player #volumeSlider{ width:8px; background:url('http://static.tumblr.com/bmdsqsc/gNWm78no0/untitled-4.png');  }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#333;}
+#playlist .module{ color:#212121; background-color:#FFFFFF; }
+#playlist h3{ background:url('http://static.tumblr.com/oiizew6/Liclzvalo/playlist.png'); color:#212121; background-color:#FFFFFF; }
+#playlist .even{background-color:#FFFFFF;}
+#playlist .odd{ background-color:#FFFFFF;}
+#playlist .focus{ background-color:#FFFFFF; color:#212121;}
